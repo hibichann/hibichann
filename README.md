@@ -1,4 +1,5 @@
 **Hibichann**
+<img align="right" src="https://raw.githubusercontent.com/hibichann/hibichann/main/css-is-awesome.jpg" width="450" height="300" title="CSS is Awesome" />
 
 **Languages and Frameworks**
 
@@ -19,7 +20,7 @@
 <code><img height="25" src="https://skillicons.dev/icons?i=solidity&perline=1&theme=light" /></code>
 
 
-总访客次数:<br>
+**总访客次数:**<br>
 Visitor Count:<br>
 <img src="https://profile-counter.glitch.me/hibichann/count.svg"/>
 <br></br>
@@ -35,8 +36,6 @@ Visitor Count:<br>
 </table>
 
 ---
-
-
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
