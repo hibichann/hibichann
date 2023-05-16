@@ -27,10 +27,10 @@ Visitor Count:<br>
 <table style="width:100%;margin-top:30px" style="border:none">
   <tr style="border:none">
     <th style="border:none"><a href="https://github.com/hibichann">
-    <img  src="https://github-readme-stats-ouuan.vercel.app/api?username=hibichann&theme=ligit&show_icons=true">
+    <img  src="https://github-readme-stats-ouuan.vercel.app/api?username=hibichann&theme=ligit&show_icons=true&count_private=true">
     </a></th>
     <th style="border:none"><a href="https://github.com/hibichann">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibichann&layout=compact&langs_count=6&hide=smali" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibichann&layout=compact&langs_count=10" />
     </a></th>
   </tr>
 </table>
