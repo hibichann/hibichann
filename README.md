@@ -22,7 +22,7 @@
 
 **总访客次数:**<br>
 Visitor Count:<br>
-<img src="https://profile-counter.glitch.me/hibichann/count.svg"/>
+<img src="https://moe-counter.glitch.me/get/@hibichann?theme=rule34"/>
 <br></br>
 <table style="width:100%;margin-top:30px" style="border:none">
   <tr style="border:none">
