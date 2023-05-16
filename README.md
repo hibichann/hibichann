@@ -1,6 +1,8 @@
 **Hibichann**
 <img align="right" src="https://raw.githubusercontent.com/hibichann/hibichann/main/css-is-awesome.jpg" width="450" height="300" title="CSS is Awesome" />
 
+Hibi, a full-time Front End Developer, passionate about creating user-friendly interfaces that provide a seamless browsing experience to users. 
+
 **Languages and Frameworks**
 
 <code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" /></code>
