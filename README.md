@@ -36,9 +36,6 @@ Visitor Count:
     <th style="border:none"><a href="https://github.com/hibichann">
     <img  src="https://github-readme-stats-hibichann.vercel.app/api?username=hibichann&theme=transparent&show_icons=true&count_private=true">
     </a></th>
-    <th style="border:none"><a href="https://github.com/hibichann">
-    <img  src="https://github-readme-stats-hibichann.vercel.app/api/top-langs/?username=hibichann&theme=transparent&layout=compact&langs_count=10" />
-    </a></th>
   </tr>
 </table>
 ---
