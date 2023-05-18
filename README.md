@@ -2,7 +2,8 @@
 <img align="right" src="https://raw.githubusercontent.com/hibichann/hibichann/main/css-is-awesome.jpg" width="450" height="300" title="CSS is Awesome" />
 
 Hibi, a full-time Front End Developer, passionate about creating user-friendly interfaces that provide a seamless browsing experience to users. 
-
+<code><img height="25" src="https://img.shields.io/badge/It's-a%20feature-yellowgreen" /></code>
+<code><img height="25" src="https://img.shields.io/badge/Not-a%20bug-yellowgreen" /></code>
 **Languages and Frameworks**
 
 <code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" /></code>
