@@ -2,7 +2,7 @@ name: Download SVG
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 */6 *  * *"
+    - cron: "0 0,6,12,18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,5 +20,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "update "
+          git commit -m "update SVG"
           git push
