@@ -15,14 +15,10 @@ jobs:
         run: |
           wget https://github-readme-stats-hibichann.vercel.app/api?username=hibichann"&"theme=transparent"&"show_icons=true -O ./svg/pic1.svg
           wget https://github-readme-stats-hibichann.vercel.app/api/top-langs?username=hibichann"&"theme=transparent"&"layout=compact"&"langs_count=10 -O ./svg/pic2.svg
-      - name: Commit files
+      - name: Commit & Push
         run: |
-          git config user.name "hibichann"
-          git config user.email "coder101011@outlook.com"
-          git checkout main
-          git add .
-          git commit -m "update SVG file"
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "update "
+          git push
