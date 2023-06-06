@@ -4,7 +4,7 @@
 <code>·Hibi, a full-time Front End Developer, passionate about creating user-friendly interfaces that provide a seamless browsing experience to users.</code> 
 
 <code>·全职前端开发者，致力于创造用户友好的UI界面，并提供丝滑的浏览体验</code>
-<img align="right" src="https://raw.githubusercontent.com/hibichann/hibichann/main/css-is-awesome.jpg" width="450" height="300" title="CSS is Awesome" alt="CSS is Awesome" />
+<img align="right" src="./css-is-awesome.jpg" width="450" height="300" title="CSS is Awesome" alt="CSS is Awesome" />
 
 **Languages and Frameworks**
 
@@ -34,10 +34,10 @@ Visitor Count:
 <table style="width:100%;margin-top:30px" style="border:none">
   <tr style="border:none">
     <th style="border:none"><a href="https://github.com/hibichann">
-    <img  src="https://github-readme-stats-hibichann.vercel.app/api?username=hibichann&theme=transparent&show_icons=true">
+    <img  src="./svg/pic1.svg">
     </a></th>
     <th style="border:none"><a href="https://github.com/hibichann">
-    <img  src="https://github-readme-stats-hibichann.vercel.app/api/top-langs?username=hibichann&theme=transparent&layout=compact&langs_count=10" />
+    <img  src="./svg/pic2.svg" />
     </a></th>
   </tr>
 </table>
