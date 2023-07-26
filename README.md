@@ -43,5 +43,5 @@ Visitor Count:
 </table>
 <!-- --- -->
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-green.svg)
 
