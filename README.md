@@ -43,5 +43,3 @@ Visitor Count:
 </table>
 <!-- --- -->
 
-![](./profile-3d-contrib/profile-green.svg)
-
