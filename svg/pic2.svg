@@ -122,7 +122,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="99.98"
+          width="98.02"
           height="8"
           fill="#3178c6"
         />
@@ -130,19 +130,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="99.98"
+          x="98.02"
           y="0"
-          width="63.49"
-          height="8"
-          fill="#41b883"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="163.47"
-          y="0"
-          width="62.62"
+          width="66.3"
           height="8"
           fill="#f1e05a"
         />
@@ -150,9 +140,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="226.09"
+          x="164.32"
           y="0"
-          width="10.89"
+          width="62.25"
+          height="8"
+          fill="#41b883"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="226.57"
+          y="0"
+          width="10.68"
           height="8"
           fill="#563d7c"
         />
@@ -160,9 +160,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="236.98000000000002"
+          x="237.25"
           y="0"
-          width="17.48"
+          width="17.33"
           height="8"
           fill="#e34c26"
         />
@@ -170,9 +170,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.46"
+          x="244.58"
           y="0"
-          width="13.78"
+          width="13.7"
           height="8"
           fill="#AA6746"
         />
@@ -180,9 +180,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.24"
+          x="248.28"
           y="0"
-          width="11.75"
+          width="11.71"
           height="8"
           fill="#c6538c"
         />
@@ -193,49 +193,49 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 39.99%
+        TypeScript 39.21%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#41b883" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 25.40%
+        JavaScript 26.52%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 25.05%
+        Vue 24.90%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#563d7c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 4.36%
+        CSS 4.27%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 2.99%
+        HTML 2.93%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#AA6746" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Solidity 1.51%
+        Solidity 1.48%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SCSS 0.70%
+        SCSS 0.69%
       </text>
     </g>
   </g></g>
