@@ -1,8 +1,9 @@
 name: Download SVG
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 0 * * 1"
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
