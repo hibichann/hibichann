@@ -29,7 +29,7 @@
 **总访客次数:**<br>
 Visitor Count:
 
-<img src="https://moe-counter.glitch.me/get/@hibichann?theme=rule34"/>
+<img src="https://count.getloli.com/get/@hibichann?theme=booru-lewd"/>
 <br></br>
 <table style="width:100%;margin-top:30px" style="border:none">
   <tr style="border:none">
